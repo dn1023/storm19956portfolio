@@ -34,19 +34,19 @@
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "www.linkedin.com/in/adam-zhao-2a6a6a2b6"
+      "link": "www.linkedin.com/in/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/VegetableDev0701"
+      "link": "https://github.com/"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "link": "https://www.instagram.com/"
     },
     {
       "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
+      "link": "https://twitter.com/"
     }
   ],
   "skills": [
