@@ -201,6 +201,26 @@
       "name": "Sql"
     },
     {
+      "category": "AI",
+      "image": "https://i.ibb.co/k5XcLP3/artificial-intelligence.png",
+      "name": "ML"
+    },
+    {
+      "category": "AI",
+      "image": "https://i.ibb.co/sgs5S7N/artificial-intelligence-1.png",
+      "name": "ChatBot"
+    },
+    {
+      "category": "AI",
+      "image": "https://i.ibb.co/PZLH5M6/communication-skills.png",
+      "name": "ChatGPT"
+    },
+    {
+      "category": "AI",
+      "image": "https://i.ibb.co/m6jwZXQ/python.png",
+      "name": "Python"
+    },
+    {
       "category": "Server",
       "image": "https://i.ibb.co/zbK92jz/aws.png",
       "name": "AWS"
