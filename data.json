@@ -186,17 +186,17 @@
       "name": "PHP"
     },
     {
-      "category": "Database",
+      "category": "DB",
       "image": "https://i.ibb.co/5r6r0pj/firebase.png",
       "name": "Firebase"
     },
     {
-      "category": "Database",
+      "category": "DB",
       "image": "https://i.ibb.co/2qfsDfj/mongodb.jpg",
       "name": "MongoDB"
     },
     {
-      "category": "Database",
+      "category": "DB",
       "image": "https://i.ibb.co/2KBcMNM/sql.jpg",
       "name": "Sql"
     },
