@@ -15,7 +15,7 @@
       "dApp Development",
       "Solana, Bit, Ether, Injective Development"
     ],
-    "heroImage": "https://i.ibb.co/ZcpjpkP/1712133463915.png",
+    "heroImage": "https://i.ibb.co/G5tqcmn/17121334639151.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
       "https://img.icons8.com/color/144/000000/html-5--v1.png",
@@ -364,9 +364,9 @@
       "position": "Injective Developer",
       "duration": "2022 Aug - 2023 Nov",
       "desc": [
-        "responsible for developing and maintaining the protocol’s smart contracts.",
-        "work with the rest of the team to design and implement new features for theprotocol.",
-        "decentralized finance structure design.",
+        "Responsible for developing and maintaining the protocol’s smart contracts.",
+        "Work with the rest of the team to design and implement new features for theprotocol.",
+        "Decentralized finance structure design.",
         "Light & Reliable dApp Development.",
         "NFT mint & Staking."
       ]
@@ -376,10 +376,11 @@
       "position": "Senior Web3 Developer",
       "duration": "2023 Nov - 2024 Mar",
       "desc": [
-        "responsible for developing and maintaining the protocol’s smart contracts.",
+        "Responsible for developing and maintaining the protocol’s smart contracts.",
         "Deploying Smart Contract and Mint CW721 based NFT Contract.",
         "NFT Staking Logic Implement.",
-        "Solana, Ether Network Integration."
+        "Solana, Ether Network Integration.",
+        "Intergration with ChatGPT, ChatBot and AI."
       ]
     }
   ]
